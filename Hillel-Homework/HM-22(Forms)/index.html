@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 22</title>
+    <script src="js/index.js" type="module" defer></script>
+</head>
+<body>
+        <form action="">
+            <label for="name">name:</label>
+            <input id="name" type="text" name="name" >
+            <br>
+            <br>
+
+            <label for="surname">surname:</label>
+            <input id="surname" type="text" name="surname">
+            <br>
+            <br>
+
+            <label for="gender">gender:</label >
+            <input type="radio"  name="gender" id="male" value="male" required>
+            <label for="male" >male</label>
+            <input type="radio" name="gender" id="female" value="female" required>
+            <label for="female">female</label>
+            <br>
+            <br>
+
+
+            <label for="city">city:</label>
+            <select name="city" id="cities">
+                <option value="chernivtsi">chernivtsi</option>
+                <option value="sumy">sumy</option>
+                <option value="kyiv">kyiv</option>
+            </select>
+            <br>
+            <br>
+
+            <label for="adress">adress:</label>
+            <textarea name="adress" id="adress"></textarea>
+            <br>
+            <br>
+
+            <label for="languages">languages:</label>
+            <input type="checkbox" id="ukrainian" name="languages" value="ukrainian" >
+            <label for="ukrainian">ukrainian</label>
+            <input type="checkbox" id="english" name="languages" value="english">
+            <label for="english">english</label>
+            <br>
+            <br>
+
+            <button id="submit-btn">Submit</button>
+
+            </form>
+</body>
+</html>

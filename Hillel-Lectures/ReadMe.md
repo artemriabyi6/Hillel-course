@@ -1,5 +1,5 @@
- Lecture 1(Знайомство з джс) :
-
+ 
+ # Lecture 1(Знайомство з джс) :
  - Знайомство
  - Тег <script>  💡
  - Alert, prompt, confirm 💡
@@ -7,7 +7,7 @@
  - git clone  💡
 
 
-  Lecture 2(Variables) : 
+  # Lecture 2(Variables) : 
  - Variables  💡
  - What is Emmet  💡
  - Temporal dead zone  💡
@@ -19,7 +19,7 @@
  - What is hash-tables  📌
 
 
- Lecture 3 (Operators) :
+ # Lecture 3 (Operators) :
  - Operator precedence  💡
  - Logical Operators  💡
  - Type conversion  💡
@@ -27,7 +27,7 @@
  - Unary and binary operators  💡
 
 
- Lecture 4(Data types, conditions) :
+ # Lecture 4(Data types, conditions) :
  - Data types (objects, arrays & their methods)  💡
  - Decomposition  💡
  - Refactoring 💡
@@ -36,7 +36,7 @@
  - Immutability 💡
 
 
- Lecture 5(Loops) :
+ # Lecture 5(Loops) :
  - Loops :
   1. do/while(do this loop while condition won't  be true) 💡
   2. while(condition is true do this loop) 💡
@@ -51,7 +51,7 @@
  - What is pagination 💡
 
 
- Lecture 6(Arrays) : 
+ # Lecture 6(Arrays) : 
  - Don't use nested if 💡
  - Console methods(log, dir, assert...) 💡
  - What is sparse arrays 💡   // arrays with empty elements
@@ -60,7 +60,7 @@
  - What is callback 💡
 
 
- lecture 7 (Functions) :
+ # lecture 7 (Functions) :
  - Callback 💡
  - Param default value 💡
  - JavaScript memory managment  📌
@@ -74,14 +74,14 @@
  - Custom elemenets 💡
 
 
- lecture 8(Closures) :
+ # lecture 8(Closures) :
  - Lexical environment concept 💡
  - Execution context 💡
  - Closures 💡
  - Incapsulation 💡
 
 
- Lecture 9(Functions part2) :
+ # Lecture 9(Functions part2) :
  - If we dont use parameter in method we put underscore(arr.map(_, i)) !!! 💡
  - Recursion 💡
  - Factorial 💡
@@ -92,7 +92,7 @@
  - Methods call, bind, apply
 
 
- Lecture 10(OOP) :
+ # Lecture 10(OOP) :
  - Recursion flow (read more about it and check examples with the tree) 💡
  - Closures  💡
  - This context  💡
@@ -110,7 +110,7 @@
  - Instruction new 
 
 
- Lecture 11(OOP part2) :
+ # Lecture 11(OOP part2) :
  - What is __proto
  - Difference between Prototype & __proto
  - Class
@@ -121,7 +121,7 @@
 
 
 
-Lecture 12(OOP part3) :
+# Lecture 12(OOP part3) :
 - Getter and setter
 - Static fields and methods
 - Private fields and methods
@@ -139,7 +139,7 @@ Lecture 12(OOP part3) :
 
 
 
-Lecture 13(Coding best practices) : 
+# Lecture 13(Coding best practices) : 
 - Homework review
 - Tabulation symbols
 - loops optimization
@@ -148,7 +148,7 @@ Lecture 13(Coding best practices) :
 
 
 
-Lecture 14(coding best practices part2) :
+# Lecture 14(coding best practices part2) :
 - Homework review
 - Library, Framework & Difference between them
 - Unit tests
@@ -160,7 +160,7 @@ Lecture 14(coding best practices part2) :
 
 
 
-Lecture 15 () :
+# Lecture 15 (Safety, Modules) :
 - OWASP cheet sheets
 - DOMPurify
 - XSS, CORS
@@ -171,7 +171,7 @@ Lecture 15 () :
 
 
 
-Lecture 16 (DOM) :
+# Lecture 16 (DOM) :
 - What is module ?
 - Difference between file and module
 - CommonJS
@@ -184,7 +184,7 @@ Lecture 16 (DOM) :
 
 
 
-Lecture 17 (Events) :
+# Lecture 17 (Events) :
 - Set, Map
 - Create function expression for addEventListener. You will able to remove listener
 - Third parameter in addEventListener (useCapture)
@@ -195,7 +195,7 @@ Lecture 17 (Events) :
 
 
 
-Lecture 18 (BOM) :
+# Lecture 18 (BOM) :
 - Homework review
 - Don't add content to DOM from loops or other iterations! it's complicated operation to browser
 - BOM
@@ -212,7 +212,7 @@ Lecture 18 (BOM) :
 
 
 
-Lecture 19 (Forms) :
+# Lecture 19 (Forms) :
 - Module stopwatch review
 - Forms
 - Create mini-server and fill form
@@ -225,7 +225,7 @@ Lecture 19 (Forms) :
 
 
 
-Lecture 20 (Web Storages) :
+# Lecture 20 (Web Storages) :
 - Cookies
 - Cookie store
 - Local storage

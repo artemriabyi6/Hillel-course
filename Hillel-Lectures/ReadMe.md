@@ -231,3 +231,70 @@
 - Local storage
 - Session storage
 - Solid
+
+
+
+# Lecture 21 (regExp) :
+- RegExp mdn reference
+- Website for training regExp (regexp101)
+- Math object
+- Date object
+- What is obfuscator
+
+
+
+# Lecture 22 (Npm, Node js) :
+- Homework review(Module stopwatch)
+- What is JSDocs ?
+- What is DOM node
+- Learn how to use variables in CSS
+- What is Continuous Integration, pipeline
+- Lodash
+- Semantic versioning
+- Express js
+- Http status
+
+
+
+# Lecture 23 (Refactoring) :
+- FrontEnd mentor
+- Homework review (Shop)
+- Attribute data
+- faker api
+- CloneNode(true)
+- What is drawer
+- here is talking about importance structure, refactoring, abstraction, routing etc...
+
+
+# lecture 24 (Promises) :
+- Homework review (Shop)
+- Importance connect routing and rendering
+- What is generic function
+- Promise
+- then, catch, finally
+- Callback hell
+- Consequence || chained Promises
+- Run promise in parallel 
+- __Promise.all()__, __Promise.allsettled()__, __Promise.race()__, __Promise.any()__ && difference between them
+
+
+
+# lecture 25 (Npm, Node js, promises) :
+- Project managment triangle (quality, cost, time)
+- Express.js
+- What is middleware
+- What is nodemon
+- Requests to cliend side(get, post...), __dirname, file system 
+- Async-await
+- Catchify
+- What is postman
+- What is pull-request
+
+
+
+# lecture 26 (ESNext) :
+- Homework review (Shop)
+- What is DummyJSON
+- EcmaScript, TC39
+- What is metaprograming, decorators
+- Iterators, generators

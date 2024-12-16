@@ -298,3 +298,52 @@
 - EcmaScript, TC39
 - What is metaprograming, decorators
 - Iterators, generators
+
+
+
+# lecture 27 (ESNext part2) :
+- Iterators & generators
+- Keyword yield
+- How to do async/await using iterators & generators
+- What is Babel
+- Destructure
+- What is developer experience
+- Spread operator
+- Rest operator
+- What is Proxy
+
+
+
+# lecture 28 (Gulp) :
+- What is gulp?
+- Preprocessor, postprocessor
+- Eslint
+- Css custom properties
+- What is CI
+- Learn SDLC (__Requirement__   -->   __Design__   -->   __Implementation__   -->   __Testing__   -->   __Evolution__)
+
+
+
+# lecture 29 (HTTP, AJAX) : 
+- What is data flow?
+- What is end Point?
+- HTTP Requests, DNS
+- Swagger
+- MDN article "Overview of HTTP"
+- TCP/IP
+- HTTP request methods: GET, HEAD, POST, PUT, DELETE
+- Restful api
+- What is Ajax
+- Debounce vs throttle
+- WebSocket
+
+
+
+# lecture 30 (React) :
+- Create React app
+- Difference between imperative & declarative programing
+- Component architecture
+- Manifest JSON
+- What is WEB vitals
+- Virtual DOM
+- What is Props

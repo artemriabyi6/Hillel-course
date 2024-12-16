@@ -3,74 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Store</title>
+    <title>Shop</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/index.js" type="module" defer></script>
 </head>
 <body>
     <header>
         <div class="container">
-            <h2 onclick="homePage()">Store</h2>
-            <a id="basket" href="">Basket🧺(0)</a>
+            <h3>
+                <a href="#" id="homepage">Home page</a>
+            </h3>
+
+            <a href="#" id="basket"></a>
         </div>
     </header>
-
     <main>
-        <div class="container" id="main-container">
-            <div id="categories-box" class="categories">
-                <ul>
-                    <li ><a class="category" href="#">Flowers</a></li>
-                    <li ><a class="category" href="#">Toys</a></li>
-                    <li ><a class="category" href="#">Snacks</a></li>
-                </ul>
-            </div>
-            <div class="show-flowers">
-                <div class="item">
-                    <p>Rose</p>
-                    <button class="buy-btn" onclick="addProduct('Rose')">Buy</button>
-                </div>
-                <div class="item">
-                    <p>Tulip</p>
-                    <button class="buy-btn" onclick="addProduct('Sunflower')">Buy</button>
-                </div>
-                <div class="item">
-                    <p>Orchid</p>
-                    <button class="buy-btn" onclick="addProduct('Georgia')">Buy</button>
-                </div>
-            </div>
-            <div class="show-toys">
-                <div class="item">
-                    <p>Ball</p>
-                    <button class="buy-btn" onclick="addProduct('Georgia')">Buy</button>
-                </div>
-                <div class="item">
-                    <p>Racket</p>
-                    <button class="buy-btn" onclick="addProduct('Georgia')">Buy</button>
-                </div>
-                <div class="item">
-                    <p>Skate</p>
-                    <button class="buy-btn" onclick="addProduct('Georgia')">Buy</button>
-                </div>
-            </div>
-            <div class="show-snacks">
-                <div class="item">
-                    <p>Chips</p>
-                    <button class="buy-btn" onclick="addProduct('Chips')">Buy</button>
-                </div>
-                <div class="item">
-                    <p>Fries</p>
-                    <button class="buy-btn" onclick="addProduct('Fries')">Buy</button>
-                </div>
-                <div class="item"><p>Crackers</p>
-                    <button class="buy-btn" onclick="addProduct('Slice')">Buy</button></div>
+        <div class="container">
+            <ul>
+                <li>
+                    <a href="#" id="flowers" class="category">Flowers</a>
+                </li>
+                <li><a href="#" id="cars" class="category">Cars</a></li>
+                <li><a href="#" id="lego" class="category">Lego</a></li>
+            </ul>
+    
+            <div class="productsBox" id="productsBox">
+    
             </div>
         </div>
-        <div  id="display-basket-list">
-            <h1 id="basket-title"></h1>
-        </div>
+        
     </main>
-
-    <footer>
-    </footer>
-    <script src="index.js"></script>
 </body>
 </html>

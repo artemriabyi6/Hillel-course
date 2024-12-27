@@ -316,6 +316,9 @@
 
 # lecture 28 (Gulp) :
 - What is gulp?
+- Gulp is not working with ES Modules or CommonJS
+- Gulp is task manager!
+- You have to use : __gulp-concat__, __gulp-uglify__, __gulp-rename__, __gulp-eslint__,__gulp-cssnano__
 - Preprocessor, postprocessor
 - Eslint
 - Css custom properties

@@ -1,0 +1,18 @@
+h1 {
+    color: purple;
+}
+
+p{
+    color: purple;
+    font-size: 25px;
+}
+
+button {
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid purple;
+    font-size: 17px;
+    cursor: pointer;
+    color: purple;
+    background-color: burlywood;
+}
